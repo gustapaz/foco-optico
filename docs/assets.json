@@ -1,0 +1,38 @@
+[
+  {
+    "file": "photos/forest.webp",
+    "author": "Anna Klymenko",
+    "source": "https://www.pexels.com/photo/sunlit-autumn-forest-path-with-trees-34982425/",
+    "license": "https://www.pexels.com/legal-pages/license/",
+    "originalSHA256": "7311a96dd279c4d08034c1cbaa172f2e3835cd7955caa191805ceab70ffc8b88",
+    "originalSize": [
+      6000,
+      4000
+    ],
+    "changes": "Redimensionamento WebP. Filtros didáticos na interface não representam a captura original."
+  },
+  {
+    "file": "photos/water.webp",
+    "author": "Rizk Nas",
+    "source": "https://www.pexels.com/photo/long-exposure-waterfall-picture-5113929/",
+    "license": "https://www.pexels.com/legal-pages/license/",
+    "originalSHA256": "e008575a8eb80a710cd645c3148f8b3d22cc71966f5debdb452b86a53bb74d31",
+    "originalSize": [
+      3376,
+      4501
+    ],
+    "changes": "Redimensionamento WebP. Filtros didáticos na interface não representam a captura original."
+  },
+  {
+    "file": "photos/flower.webp",
+    "author": "Francis Seura",
+    "source": "https://www.pexels.com/photo/macro-photography-of-flower-713770/",
+    "license": "https://www.pexels.com/legal-pages/license/",
+    "originalSHA256": "f01f550d63696330f5e00c986158feaef0e2a52fca3dbfc1649a1f603c6d0226",
+    "originalSize": [
+      6016,
+      4000
+    ],
+    "changes": "Redimensionamento WebP. Filtros didáticos na interface não representam a captura original."
+  }
+]
